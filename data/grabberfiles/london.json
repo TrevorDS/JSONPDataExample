@@ -1,6 +1,9 @@
 {
     "title" : "The London Eye",
-    "desc" : "Welcome from new file! (JSON file!)",
+    "desc" : " awaits! Have a great time and visit many great tourist spots.",
     "city" : "London",
-    "country" : "England"
+    "country" : "England",
+    "price" : 300,
+    "duration" : 3,
+    "currency" : "euros"
 }
