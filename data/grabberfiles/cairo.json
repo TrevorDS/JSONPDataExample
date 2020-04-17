@@ -1,0 +1,9 @@
+{
+    "title" : "Welcome to Cairo",
+    "desc" : " awaits! Have a great time and visit many great tourist spots.",
+    "city" : "Cairo",
+    "country" : "Egypt",
+    "price" : 275,
+    "duration" : 4,
+    "currency" : "Egyptian pounds"
+}
