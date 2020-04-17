@@ -1,1 +1,6 @@
-{"desc":"Welcome from new file! (JSON file!)"}
+{
+    "title" : "The London Eye",
+    "desc" : "Welcome from new file! (JSON file!)",
+    "city" : "London",
+    "country" : "England"
+}
